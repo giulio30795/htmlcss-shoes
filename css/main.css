@@ -40,8 +40,8 @@ nav ul li a{
 }
 
 ul li a:hover{
-background:lightgrey;
-}
+    background:lightgrey;
+    }
 
 section div{
     position: absolute;
